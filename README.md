@@ -7,7 +7,7 @@ Este programa generar registros a la base de datos H2 dentro de un proyecto de S
 
 Pasos para la ejecucición. 
 
-#REQUERIMIENTOS GENERALES
+# REQUERIMIENTOS GENERALES
 Es necesario contar con lo siguiente: 
 
 * Visual Studio Code.
@@ -18,12 +18,12 @@ Es necesario contar con lo siguiente:
 * H2 Database
 * Spring Web
 
-#REQUERIMIENTOS - PYTHON:
+# REQUERIMIENTOS - PYTHON:
 * Libreria Request: 
 Ejecute en conlo el siguiente comendo
 * pip install requests
 
-#INSTALACIÓN
+# INSTALACIÓN
 Para Spring unicamente la dependencia en el pom:
 
 <dependency>
